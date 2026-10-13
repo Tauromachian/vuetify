@@ -64,9 +64,9 @@ export const makeVIconBtnProps = propsFactory({
     default: () => ([
       ['x-small', 16],
       ['small', 24],
-      ['default', 40],
-      ['large', 48],
-      ['x-large', 56],
+      ['default', 32],
+      ['large', 40],
+      ['x-large', 48],
     ]),
   },
   text: {
