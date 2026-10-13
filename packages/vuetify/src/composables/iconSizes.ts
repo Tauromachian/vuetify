@@ -23,6 +23,7 @@ export const makeIconSizeProps = propsFactory({
       ['default', 24],
       ['large', 28],
       ['x-large', 32],
+      ['xx-large', 36],
     ]),
   },
 }, 'iconSize')
